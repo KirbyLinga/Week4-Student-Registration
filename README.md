@@ -270,7 +270,7 @@ flowchart TD
 | Flash Message | ![Flash Message](docs/screenshots/flash-message.png) |
 | Uploaded Profile Picture | ![Uploaded Profile Picture](docs/screenshots/profile-picture.png) |
 | Database Table | ![Database Table](docs/screenshots/database-table.png) |
-| Student Profile Page | ![Student Profile Page](docs/screenshots/profile-page.png) |
+| Student Profile Page | ![Student Profile Page](docs/screenshots/profile-picture.png) |
 | VS Code Project Structure | ![VS Code Project Structure](docs/screenshots/vscode-structure.png) |
 | GitHub Repository | ![GitHub Repository](docs/screenshots/github-repo.png) |Repository | `![GitHub Repository](docs/screenshots/github-repo.png)` |
 
